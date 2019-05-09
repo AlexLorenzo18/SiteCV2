@@ -35,7 +35,7 @@ $(document).ready(function(){
             },
             messages: {
                 name: {
-                    required: "Vous n'avez aps inséré votre prénom",
+                    required: "Vous n'avez pas inséré votre prénom",
                 
                 },
                 subject: {
