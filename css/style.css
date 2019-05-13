@@ -2485,8 +2485,8 @@ h6 {
 
         .portrait {
           width: 115%;
-          height: 90%;
-          border-radius: 50%;
+          height: 10%;
+          border-radius: 100%;
           padding: 100px;
           border-width: 200px;
         }
