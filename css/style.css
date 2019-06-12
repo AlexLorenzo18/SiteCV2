@@ -344,21 +344,13 @@ button:focus {
   overflow: hidden;
   margin-bottom: 0px; }
   .blog_banner .banner_inner {
-    background: #04091e;
+    background-color: -moz-linear-gradient(0deg, #FA7322 0%, #FAE922 100%);
     position: relative;
     overflow: hidden;
     width: 100%;
     min-height: 780px;
     z-index: 1; }
-    .blog_banner .banner_inner .overlay {
-      background: url(../img/banner/banner-2.jpg) no-repeat scroll center center;
-      opacity: .5;
-      height: 125%;
-      position: absolute;
-      left: 0px;
-      top: 0px;
-      width: 100%;
-      z-index: -1; }
+    
     .blog_banner .banner_inner .blog_b_text {
       max-width: 700px;
       margin: auto;
@@ -464,6 +456,11 @@ button:focus {
 /* End Latest Blog Area css
 ============================================================================================ */
 /*================= latest_blog_area css =============*/
+
+.blog_area {
+  padding-top: 25px;
+}
+
 .single-recent-blog-post {
   margin-bottom: 30px; }
   .single-recent-blog-post .thumb {
@@ -2672,6 +2669,12 @@ h6 {
   max-width: 540px;
   color: #777777;
   margin-bottom: 40px; }
+.personal_text h1 {
+  font-size: 48px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  color: #222222;
+}
 .personal_text .basic_info li {
   margin-bottom: 15px; }
   .personal_text .basic_info li a {
