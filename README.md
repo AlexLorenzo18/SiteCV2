@@ -15,6 +15,9 @@ expériences.sql est un fichier à importé dans phpmyadmin
 
 # Importation
 ouvrir phpmyadmin : localhost/phpmyadmin
+
 nouvelle base de données
+
 La nommer site_cv
+
 importer expériences.sql
