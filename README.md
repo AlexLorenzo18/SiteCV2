@@ -7,10 +7,11 @@ J'ai choisi de ne pas afficher mes différentes expériences sur mon site cv (ma
 
 # Admin:
 
-Pour pouvoir voir/ajouter/supprimer un diplôme: localhost/admin
+Pour pouvoir voir/ajouter/supprimer une expérience: localhost/admin
 
 # Base de données:
 Vous trouverez un fichier expériences.sql
+
 expériences.sql est un fichier à importé dans phpmyadmin
 
 # Importation
