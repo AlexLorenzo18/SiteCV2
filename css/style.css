@@ -581,7 +581,9 @@ button:focus {
       color: #FA7322; }
 
 .blog_post img {
-  max-width: 100%; }
+  max-width: 85%;
+
+}
 
 .blog_details {
   padding-top: 20px; }
