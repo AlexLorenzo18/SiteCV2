@@ -582,7 +582,12 @@ button:focus {
 
 .blog_post img {
   max-width: 85%;
+  margin-left: 13%;
+  
+}
 
+.article_img img {
+  max-width: 85%;
 }
 
 .blog_details {
@@ -2680,8 +2685,14 @@ h6 {
 .personal_text p {
   font-family: "Roboto", sans-serif;
   max-width: 90%;
-  color: #777777;
+  color: #525252;
+  text-align: justify;
 }
+
+.txtblog {
+  text-indent: 1em; 
+}
+
 .personal_text h1 {
   font-size: 48px;
   text-transform: uppercase;
@@ -2694,7 +2705,7 @@ h6 {
     position: relative;
     padding-left: 40px;
     font-size: 16px;
-    color: #777777; }
+    color: #525252; }
     .personal_text .basic_info li a i {
       position: absolute;
       left: 0px;
