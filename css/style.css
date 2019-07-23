@@ -2503,9 +2503,7 @@ h6 {
           margin-left: 50px;
         }
 
-        .txtblog {
-          
-        }
+        
 /* End Welcome Area css
 ============================================================================================ */
 /* My Tabs Area css
@@ -2691,6 +2689,10 @@ h6 {
 
 .txtblog {
   text-indent: 1em; 
+}
+
+.txtblog2 {
+  text-indent: 2em;
 }
 
 .personal_text h1 {
