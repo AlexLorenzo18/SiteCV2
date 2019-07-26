@@ -2374,13 +2374,35 @@ h6 {
   font-size: 13px;
   font-weight: 500;
   line-height: 34px;
-  border-radius: 0px;
+  border-radius: 100px;
   outline: none !important;
   box-shadow: none !important;
   text-align: center;
   cursor: pointer;
   transition: all 300ms linear 0s; }
   .white_bg_btn:hover {
+    background-image: -moz-linear-gradient(0deg, #FA7322 0%, #FAE922 100%);
+    background-image: -webkit-linear-gradient(0deg, #FA7322 0%, #FAE922 100%);
+    background-image: -ms-linear-gradient(0deg, #FA7322 0%, #FAE922 100%);
+    color: #fff;
+    border: none; }
+
+.btn_prec_next {
+  display: inline-block;
+  background: #f9f9ff;
+  padding: 0px 35px;
+  color: #222222;
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 34px;
+  border-radius: 0px;
+  outline: none !important;
+  box-shadow: none !important;
+  text-align: center;
+  cursor: pointer;
+  transition: all 300ms linear 0s; }
+  .btn_prec_next:hover {
     background-image: -moz-linear-gradient(0deg, #FA7322 0%, #FAE922 100%);
     background-image: -webkit-linear-gradient(0deg, #FA7322 0%, #FAE922 100%);
     background-image: -ms-linear-gradient(0deg, #FA7322 0%, #FAE922 100%);
